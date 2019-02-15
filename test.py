@@ -27,7 +27,7 @@ def testGetRedis():
     return_value = r.get('key')
     return return_value
 
-@app.route('deleteRedisData')
+@app.route('/deleteRedisData')
 def deleteRedisData():
     r.delete('key')
     return 'Deleted'
