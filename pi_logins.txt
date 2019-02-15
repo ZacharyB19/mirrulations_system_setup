@@ -1,1 +1,17 @@
-hi
+1 - ip: 172.31.228.70
+    password: mirrulati0ns1
+    
+2 - ip: 172.31.228.68
+    password: mirrulati0ns2
+    
+3 - ip: 172.31.228.65
+    password: mirrulati0ns3
+    
+4 - ip: 172.31.228.67
+    password: mirrulati0ns4
+    
+5 - ip: 172.31.228.66
+    password: mirrulati0ns5
+    
+6 - ip: 172.31.228.69
+    password: mirrulati0ns6
