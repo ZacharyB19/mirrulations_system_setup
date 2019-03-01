@@ -1,16 +1,16 @@
-1 - ip: 172.31.228.70
+1 - ip: 172.31.228.70 - working server from boot
     password: mirrulati0ns1
     
-2 - ip: 172.31.228.68
+2 - ip: 172.31.228.68 - dummy client
     password: mirrulati0ns2
     
-3 - ip: 172.31.228.65
+3 - ip: 172.31.228.65 - storage
     password: mirrulati0ns3
     
-4 - ip: 172.31.228.67
+4 - ip: 172.31.228.67 - working server from boot
     password: mirrulati0ns4
     
-5 - ip: 172.31.228.66
+5 - ip: 172.31.228.66 - 
     password: mirrulati0ns5
     
 6 - ip: 172.31.228.69
