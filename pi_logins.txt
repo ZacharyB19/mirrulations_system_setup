@@ -1,17 +1,17 @@
-1 - ip: 172.31.228.70 - clean
+1 - ip: 172.31.228.70 - working client?
     password: mirrulati0ns1
     
-2 - ip: 172.31.228.68 - clean
+2 - ip: 172.31.228.68 - working client?
     password: mirrulati0ns2
     
-3 - ip: 172.31.228.65 - clean
+3 - ip: 172.31.228.65 - working client?
     password: mirrulati0ns3
     
-4 - ip: 172.31.228.67 - client tester
+4 - ip: 172.31.228.67 - working client?
     password: mirrulati0ns4
     
 5 - ip: 172.31.228.66 - running server
     password: mirrulati0ns5
     
-6 - ip: 172.31.228.69 - clean
+6 - ip: 172.31.228.69 - working client?
     password: mirrulati0ns6
