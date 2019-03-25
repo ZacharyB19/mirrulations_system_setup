@@ -15,3 +15,9 @@
     
 6 - ip: 172.31.228.69 - working client?
     password: mirrulati0ns6
+    
+7 - ip: 172.31.228.117 - working client
+    password: mirrulati0ns7
+    
+8 - ip: 172.31.228.119 - working client
+    password: mirrulati0ns8
