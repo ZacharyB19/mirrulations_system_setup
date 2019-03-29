@@ -1,23 +1,28 @@
-1 - ip: 172.31.228.70 - working client?
+1 - ip: 172.31.228.70 - server
     password: mirrulati0ns1
+    API key - dan's key
     
-2 - ip: 172.31.228.68 - working client?
+2 - ip: 172.31.228.68 - client
     password: mirrulati0ns2
+    API key - alex's key
     
-3 - ip: 172.31.228.65 - working client?
+3 - ip: 172.31.228.65 - client
     password: mirrulati0ns3
+    API key - willie's key
     
-4 - ip: 172.31.228.67 - working client?
+4 - ip: 172.31.228.67 - down
     password: mirrulati0ns4
     
-5 - ip: 172.31.228.66 - running server
+5 - ip: 172.31.228.66 - down
     password: mirrulati0ns5
     
-6 - ip: 172.31.228.69 - working client?
+6 - ip: 172.31.228.69 - down
     password: mirrulati0ns6
     
-7 - ip: 172.31.228.117 - working client
+7 - ip: 172.31.228.117 - down
     password: mirrulati0ns7
+    API key - timothy's key
     
-8 - ip: 172.31.228.119 - working client
+8 - ip: 172.31.228.119 - down
     password: mirrulati0ns8
+    API key - timothy's other key
