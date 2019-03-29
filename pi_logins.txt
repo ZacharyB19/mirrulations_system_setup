@@ -10,14 +10,17 @@
     password: mirrulati0ns3
     API key - willie's key
     
-4 - ip: 172.31.228.67 - manny's apache
+4 - ip: 172.31.228.67 - client
     password: mirrulati0ns4
+    API key - fred's key
     
-5 - ip: 172.31.228.66 - down
+5 - ip: 172.31.228.66 - client
     password: mirrulati0ns5
+    API key - charlie's key
     
-6 - ip: 172.31.228.69 - down
+6 - ip: 172.31.228.69 - server
     password: mirrulati0ns6
+    API key - dev key
     
 7 - ip: 172.31.228.117 - down
     password: mirrulati0ns7
